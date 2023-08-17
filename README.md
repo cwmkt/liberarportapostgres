@@ -31,9 +31,11 @@ host    all             all             0.0.0.0/0               md5
 </p>
 depois
 </p>
+Linha 60
+</p>
 sudo nano /etc/postgresql/14/main/postgresql.conf
 </p>
-Linha 60
+
 
 ```bash
 #listen_addresses = 'localhost' # what IP address(es) to listen on;
