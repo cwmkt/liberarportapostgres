@@ -1,19 +1,18 @@
+<p align="center">
+	<img src="https://www.chatwoot.com/docs/img/logo.png" alt="Chatwoot-logo" width="100" />	
+	<p align="center">O Chatwoot oferece todas as ferramentas para gerenciar conversas, construir relacionamentos e encantar seus clientes em um só lugar.</p>
 </p>
 
-**Gostou do Tutorial? Faça sua Contribuição**
-
-<img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="200" />
+<p align="left">
+	<img src="https://whatsapp.com/favicon.ico" alt="WhatsAPP-logo" width="32" />
+	<span>Grupo WhatsaAPP: </span>
+	<a href="https://chat.whatsapp.com/CLKge3hmHmmBcIL04mBzmT" target="_blank">Grupo</a>
 </p>
 
-**PIX CNPJ**
+<hr />
+<hr />
 
-```
-45959142000119	
-```
-----------------------------------------------------------------------------
-
-</p>
-sudo nano /etc/postgresql/12/main/pg_hba.conf
+sudo nano /etc/postgresql/14/main/pg_hba.conf
 </p>
 Linha 97
 </p>
@@ -25,7 +24,7 @@ host    all             all             0.0.0.0/0               md5
 </p>
 depois
 </p>
-sudo nano /etc/postgresql/12/main/postgresql.conf
+sudo nano /etc/postgresql/14/main/postgresql.conf
 </p>
 Linha 60
 </p>
@@ -36,20 +35,6 @@ Alterar para
 listen_addresses = '*'		# what IP address(es) to listen on;
 </p>
 sudo systemctl restart postgresql
-
-----------------------------------------------------------------------------
-----------------------------------------------------------------------------
-
-**Gostou do Tutorial? Faça sua Contribuição**
-
-<img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="200" />
 </p>
-
-
-**PIX CNPJ**
-
-```
-45959142000119	
-```
-
-----------------------------------------------------------------------------
+<hr />
+<hr />
