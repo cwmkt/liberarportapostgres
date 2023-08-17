@@ -14,6 +14,8 @@
 
 **Liberando Postgres para acesso externo**
 
+Execute comando abaixo
+</p>
 sudo nano /etc/postgresql/14/main/pg_hba.conf
 </p>
 Linha 97
