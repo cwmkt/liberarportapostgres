@@ -50,6 +50,3 @@ listen_addresses = '*'		# what IP address(es) to listen on;
 ```bash
 sudo systemctl restart postgresql
 ```
-
-<hr />
-<hr />
